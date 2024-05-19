@@ -1,7 +1,8 @@
 # ThinkAI_hackathon2024
 
-## Our project MediGuider : - It's a user-friendly chat interface allows patients to upload blood test results and provides clear interpretations
-## - Assesses the urgency of the patient's condition and provides guidance on seeking immediate medical attention for urgent issues.
+## Our project MediGuider : 
+- It's a user-friendly chat interface allows patients to upload blood test results and provides clear interpretations
+- Assesses the urgency of the patient's condition and provides guidance on seeking immediate medical attention for urgent issues.
 
 
 
