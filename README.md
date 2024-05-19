@@ -4,6 +4,7 @@
 - It's a user-friendly chat interface allows patients to upload blood test results and provides clear interpretations
 - Assesses the urgency of the patient's condition and provides guidance on seeking immediate medical attention for urgent issues.
 
+presentation : https://www.canva.com/design/DAGFn83oaH8/6L4JusDRj13_nZF1nYLFSA/edit?utm_content=DAGFn83oaH8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ### Without Virtual Environment:
 
 1. **Navigate** to your project directory using the `cd` command:
