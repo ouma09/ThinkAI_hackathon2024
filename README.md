@@ -8,7 +8,7 @@
 
 1. **Navigate** to your project directory using the `cd` command:
    ```bash
-   cd chatBot
+   cd mychatBot
 
 2. **Install** the required dependencies using pip with the requirements.txt file:
    ```bash
