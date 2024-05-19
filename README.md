@@ -4,7 +4,11 @@
 - It's a user-friendly chat interface allows patients to upload blood test results and provides clear interpretations
 - Assesses the urgency of the patient's condition and provides guidance on seeking immediate medical attention for urgent issues.
 
+### Without Virtual Environment:
 
+1. **Navigate** to your project directory using the `cd` command:
+   ```bash
+   cd chatBot
 
 If you do not want to use a virtual environment:
 
